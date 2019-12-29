@@ -16,3 +16,6 @@ calendar.setfirstweekday(calendar.SUNDAY)
 print(calendar.firstweekday())
 # Now the calendar will be printed with sunday as the first day
 print(calendar.calendar(2019))
+# find whether a year is a leap year or non leap year
+leap=calendar.isleap(2019)
+print(leap)
