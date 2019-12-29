@@ -1,1 +1,0 @@
-print('Swamiye Saranam Ayyappa')

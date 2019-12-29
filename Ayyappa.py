@@ -1,8 +1,7 @@
-import calendar
-print(calendar.weekheader(1))
-print()
-
-print(calendar.firstweekday())
-print()
-
-print(calendar.month(2019, 12))
+print('Swamiye Saranam Ayyappa')
+print('Vinayagar Thunai')
+print('Veerakumar Thunai')
+print('Karivaratharaja Perumal Thunai')
+print('Karana Perumal Thunai')
+print('Thirupathi Perumal Thunai')
+print('Kariya Kali Amman Thunai')
