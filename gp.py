@@ -1,0 +1,1 @@
+print('Swamiye Saranam Ayyappa')
